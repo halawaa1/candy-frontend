@@ -31,7 +31,7 @@ export default function Home() {
             with server-side rendering, automatic code splitting, and optimized performance out of the box.
           </p>
           <p className="text-base/6 text-gray-500 dark:text-gray-400">
-            Whether you're building a simple website or a complex web application, Next.js provides 
+            Whether you&apos;re building a simple website or a complex web application, Next.js provides 
             the tools and flexibility you need to create exceptional user experiences. Start exploring 
             the possibilities and bring your ideas to life.
           </p>
