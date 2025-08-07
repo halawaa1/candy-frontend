@@ -21,9 +21,21 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em] text-red-500">
-            Save and seesadfsadfsdf your changes instantly.
+            Save and see your changes instantly.
           </li>
         </ol>
+
+        <div className="max-w-2xl text-center sm:text-left">
+          <p className="text-lg/7 text-gray-600 dark:text-gray-300 mb-4">
+            Welcome to your Next.js application! This powerful framework combines the best of React 
+            with server-side rendering, automatic code splitting, and optimized performance out of the box.
+          </p>
+          <p className="text-base/6 text-gray-500 dark:text-gray-400">
+            Whether you're building a simple website or a complex web application, Next.js provides 
+            the tools and flexibility you need to create exceptional user experiences. Start exploring 
+            the possibilities and bring your ideas to life.
+          </p>
+        </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
